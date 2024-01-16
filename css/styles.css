@@ -1,5 +1,5 @@
 body {
-  font-family: "Roboto" sans-serif;
+  font-family: "Roboto", sans-serif;
   color: #434455;
   background-color: #fff;
 }
@@ -13,13 +13,15 @@ ul {
 }
 
 button {
-  color: var(--WHITE, #fff);
+  font-family: "Roboto", sans-serif;
+  color: #fff;
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
-  line-height: 24px; /* 150% */
+  line-height: 1.5;
   letter-spacing: 0.64px;
-  background: var(--IRIS, #4d5ae5);
+  background: #4d5ae5;
+  cursor: pointer;
 }
 
 h2 {
@@ -73,15 +75,13 @@ p {
   text-transform: uppercase;
 }
 
-.header-icon {
+.studio {
   color: #2e2f42;
-  font-family: Raleway;
-  font-size: 18px;
-  font-style: normal;
-  font-weight: 700;
-  line-height: 21px;
-  letter-spacing: 0.54px;
-  text-transform: uppercase;
+}
+
+.list-of-links .studio:hover,
+.studio:active {
+  color: #404bbf;
 }
 
 .list-of-links {
@@ -102,8 +102,8 @@ p {
   letter-spacing: 0.32px;
 }
 
-.contact-info :hover,
-:focus {
+.contact-info .send-email:hover,
+.send-email:focus {
   color: #4d5ae5;
 }
 
@@ -117,11 +117,11 @@ p {
   font-size: 56px;
   font-style: normal;
   font-weight: 700;
-  line-height: 60px; /* 107.143% */
+  line-height: 1.07;
   letter-spacing: 1.12px;
 }
 
-button .order-styled:focus,
+.first-section .order-styled:focus,
 .order-styled:hover {
   color: #404bbf;
 }
