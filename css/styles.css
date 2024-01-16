@@ -82,7 +82,16 @@ p {
   letter-spacing: 0.32px;
 }
 
-address {
+.send-email {
+  color: #434455;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.32px;
+}
+
+.call-phone {
   color: #434455;
   font-size: 16px;
   font-style: normal;
