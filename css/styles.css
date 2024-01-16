@@ -181,7 +181,7 @@ p {
   background: #fff;
 }
 
-.first-employee {
+.list-of-employees .first-employee {
   color: #2e2f42;
   font-weight: 500;
   font-size: 20px;
@@ -189,7 +189,7 @@ p {
   letter-spacing: 0.02em;
 }
 
-.product-designer {
+.list-of-employees .product-designer {
   color: #2e2f42;
   font-size: 16px;
   line-height: 1.5;
