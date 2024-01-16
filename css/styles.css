@@ -52,18 +52,18 @@ p {
 }
 
 .icon-title {
-  color: var(--IRIS, #4d5ae5);
-  font-family: Raleway;
+  color: #4d5ae5;
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 700;
-  line-height: 21px;
-  letter-spacing: 0.54px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
   text-transform: uppercase;
 }
 
 .studio-header {
-  color: var(--NAVY-BLUE, #2e2f42);
+  color: #2e2f42;
   font-family: Raleway;
   font-size: 18px;
   font-style: normal;
@@ -74,7 +74,7 @@ p {
 }
 
 .header-icon {
-  color: var(--NAVY-BLUE, #2e2f42);
+  color: #2e2f42;
   font-family: Raleway;
   font-size: 18px;
   font-style: normal;
@@ -85,7 +85,7 @@ p {
 }
 
 .list-of-links {
-  color: var(--NAVY-BLUE, #2e2f42);
+  color: #2e2f42;
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
@@ -94,7 +94,7 @@ p {
 }
 
 .contact-info {
-  color: var(--SLATE, #434455);
+  color: #434455;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -108,11 +108,11 @@ p {
 }
 
 .first-section {
-  background: var(--NAVY-BLUE, #2e2f42);
+  background: #2e2f42;
 }
 
 .effective-solutions {
-  color: var(--WHITE, #fff);
+  color: #fff;
   text-align: center;
   font-size: 56px;
   font-style: normal;
@@ -127,20 +127,19 @@ button .order-styled:focus,
 }
 
 .third-section {
-  background: var(--CLOUD, #f4f4fd);
+  background: #f4f4fd;
 }
 
 .list-of-employees {
-  border-radius: 0px 0px 4px 4px;
-  background: var(--WHITE, #fff);
+  background: #fff;
 }
 
 .footer {
-  background: var(--NAVY-BLUE, #2e2f42);
+  background: #2e2f42;
 }
 
 .footer-p {
-  color: var(--CLOUD, #f4f4fd);
+  color: #f4f4fd;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -149,7 +148,7 @@ button .order-styled:focus,
 }
 
 .studio-footer {
-  color: var(--CLOUD, #f4f4fd);
+  color: #f4f4fd;
   font-family: Raleway;
   font-size: 18px;
   font-style: normal;
