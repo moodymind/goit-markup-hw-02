@@ -144,18 +144,17 @@ p {
 
 .order-styled {
   font-family: "Roboto", sans-serif;
-  color: #fff;
+  color: #ffffff;
   font-size: 16px;
-  font-style: normal;
   font-weight: 500;
-  letter-spacing: 0.64px;
+  letter-spacing: 0.04em;
   background: #4d5ae5;
   line-height: 1.5;
   cursor: pointer;
 }
 
-.order-styled:focus,
-.order-styled:hover {
+.order-styled:hover,
+.order-styled:focus {
   color: #404bbf;
 }
 
