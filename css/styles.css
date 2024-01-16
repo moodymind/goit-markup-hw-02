@@ -131,7 +131,7 @@ p {
   cursor: pointer;
 }
 
-.first-section .order-styled:focus,
+.order-styled:focus,
 .order-styled:hover {
   color: #404bbf;
 }
