@@ -1,6 +1,6 @@
 body {
-  font-family: "Roboto", "Raleway", sans-serif;
-  color: #2e2f42;
+  font-family: "Roboto" sans-serif;
+  color: #434455;
   background-color: #fff;
 }
 
@@ -51,7 +51,7 @@ p {
   letter-spacing: 0.32px;
 }
 
-.icon-title .web {
+.icon-title {
   color: var(--IRIS, #4d5ae5);
   font-family: Raleway;
   font-size: 18px;
