@@ -69,14 +69,17 @@ p {
 
 .studio {
   color: #2e2f42;
+  background-color: #ffffff;
 }
 
 .portfolio {
   color: #2e2f42;
+  background-color: #ffffff;
 }
 
 .contacts {
   color: #2e2f42;
+  background-color: #ffffff;
 }
 
 .list-of-links {
@@ -103,11 +106,8 @@ p {
   letter-spacing: 0.32px;
 }
 
-.contact-info .send-email:hover {
-  color: #404bbf;
-}
-
-.contact-info .send-email:focus {
+.contact-info .send-email:hover,
+.send-email:focus {
   color: #404bbf;
 }
 
@@ -120,11 +120,8 @@ p {
   letter-spacing: 0.32px;
 }
 
-.contact-info .call-phone:hover {
-  color: #404bbf;
-}
-
-.contact-info .call-phone:focus {
+.contact-info .call-phone:hover,
+.call-phone:focus {
   color: #404bbf;
 }
 
