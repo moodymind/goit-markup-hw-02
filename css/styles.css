@@ -91,6 +91,24 @@ p {
   letter-spacing: 0.32px;
 }
 
+.list-of-links .portfolio {
+  color: #2e2f42;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.32px;
+}
+
+.list-of-links .contacts {
+  color: #2e2f42;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.32px;
+}
+
 .list-of-links .studio:hover,
 .studio:active,
 .studio:focus {
