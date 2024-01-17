@@ -51,7 +51,10 @@ address {
   color: #434455;
 }
 
-.contact-info .contacts:hover,
+.contacts:hover {
+  color: #404bbf;
+}
+
 .contact:focus,
 .contacts:active {
   color: #404bbf;
