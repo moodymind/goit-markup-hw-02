@@ -32,14 +32,14 @@ address {
 
 .links-menu {
   font-weight: 500;
-  font-size: 15px;
+  font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
 
 .links-menu:hover,
-.links-menu:focus {
+.links-menu:focus .links-menu:active {
   color: #404bbf;
 }
 
