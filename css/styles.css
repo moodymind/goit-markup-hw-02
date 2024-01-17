@@ -52,7 +52,7 @@ address {
 }
 
 .contacts:hover,
-.contact:focus,
+.contacts:focus,
 .contacts:active {
   color: #404bbf;
 }
